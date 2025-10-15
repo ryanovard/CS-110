@@ -1,6 +1,5 @@
 def main():
-    # Write code here
-    pass
+    print('Go Utes')
 
 
 if __name__ == '__main__':
